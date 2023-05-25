@@ -1,0 +1,12 @@
+body {background:linear-gradient(90deg, black, orange, red, blue, orange, purple, blue, orange, deeppink, limegreen, orange, blue, purple, orange, blue, red, orange, black); margin: 0px 0px 0px 0px;}
+p {color: pink; font-size: 12px; margin: 0px 0px 0px 0px; text-align: center;}
+h1 {color: deeppink; font-size: 19px; text-align: center; width: 123px; background: linear-gradient(45deg, yellow, pink, cyan); border: solid 4px black;}
+h2 {color: darkslategray; font-size: 14px; background: linear-gradient(45deg, pink, cyan, yellow); width: 70px; margin: 10px 0px 0px 15px; border: solid 2px;}
+h3 {color: darkred; float: right; font-size: 23px; margin: 8px 2px 0px 2px;}
+h4 {color: darkgreen; float: right; font-size: 23px; margin: 8px 2px 0px 2px;}
+h5 {color: deepskyblue; font-size: 12px; margin: 0px 0px 0px 0px; text-align: center;}
+h6 {color: deepskyblue; font-size: 12px; margin: 0px 0px 0px 0px; text-align: center; text-align: center;}
+img {height: 140px; width: 156px; border: solid 5px; margin: 2px 0px 0px 0px;}
+main {background: linear-gradient(45deg, limegreen, deeppink, yellow, cyan, orange); border: solid 2px; margin: 10px 0px 0px 0px;}
+footer {margin: 10px 0px 0px 0px;}
+section {margin: 10px 0px 15px 0px;}
