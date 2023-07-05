@@ -1,0 +1,6 @@
+body {background: linear-gradient(90deg, black, silver, white, silver, black);}
+h1 {text-align: center;}
+h2 {font-size: 26px; color: green; text-align: center;}
+p {font-size: 16px; color: deepskyblue; text-align: center;}
+section {margin-right: 75px; margin-left: 75px; margin-top: 25px;}
+main {margin-top: 30px;}
